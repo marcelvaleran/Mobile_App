@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main(){
   runApp(
       new MaterialApp(
-        title: "Page one ",
+        title: " Inbox ",
         home: new MovieList(),
       )
   );

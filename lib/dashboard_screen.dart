@@ -8,6 +8,7 @@ import 'view_recommended.dart';
 import 'package:carousel_pro/carousel_pro.dart';
 import 'movie.dart';
 
+///Ini utk gambar promosi !!! Ganti gambarny di file lib/images.
 Widget carousel = new Carousel(
   boxFit: BoxFit.cover,
   images: [
