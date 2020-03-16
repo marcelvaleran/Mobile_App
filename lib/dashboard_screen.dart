@@ -39,11 +39,11 @@ class DashboardScreen extends StatelessWidget {
         child: Column(
           children: <Widget>[
             Container(
-              height: 301,
+              height: 251,
               padding: const EdgeInsets.only(top: 0),
               child: new Container(
                 padding: const EdgeInsets.all(0),
-                height: 300,
+                height: 250,
                 child: new ClipRRect(
                   borderRadius: BorderRadius.circular(3),
                   child: new Stack(
